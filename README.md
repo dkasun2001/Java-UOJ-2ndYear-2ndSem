@@ -1,8 +1,9 @@
 # UOJ Java Programming - 1st Year 2nd Semester 📚
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
-[![University of Jaffna](https://img.shields.io/badge/University-of%20Jaffna-blue?style=for-the-badge)](http://www.jfn.ac.lk/)
-[![Academic Year](https://img.shields.io/badge/Academic-1st%20Year%202nd%20Sem-green?style=for-the-badge)](#)
+[![University of Jaffna](https://img.shields.io/badge/University%20of%20Jaffna-blue?style=for-the-badge)](http://www.jfn.ac.lk/)
+[![University of Jaffna](https://img.shields.io/badge/CS-red?style=for-the-badge)](https://www.csc.jfn.ac.lk/)
+[![Academic Year](https://img.shields.io/badge/2nd%20Year%202nd%20Sem-green?style=for-the-badge)](#)
 
 ## 🎯 About This Repository
 
@@ -10,21 +11,23 @@ This repository contains **Java programming assignments, projects, and coursewor
 
 ## 🏫 University Information
 
-- **Institution**: University of Jaffna (UOJ)
-- **Faculty**: Faculty of Science
-- **Department**: Computer Science
+- **Institution**: [University of Jaffna (UOJ)](http://www.jfn.ac.lk/)
+- **Faculty**: [Faculty of Science](https://www.sci.jfn.ac.lk/)
+- **Department**: [Computer Science](https://www.csc.jfn.ac.lk/)
 - **Academic Level**: 2nd Year, 2nd Semester
 - **Programming Language**: Java
 
 ## 📋 Course Content & Topics Covered
 
 ### Core Java Fundamentals
+
 - ✅ Variables and Data Types
 - ✅ Control Structures (if-else, loops)
 - ✅ Methods and Functions
 - ✅ Arrays and Collections
 
 ### Object-Oriented Programming (OOP)
+
 - ✅ Classes and Objects
 - ✅ Inheritance
 - ✅ Polymorphism
@@ -32,6 +35,7 @@ This repository contains **Java programming assignments, projects, and coursewor
 - ✅ Abstraction
 
 ### Advanced Topics
+
 - ✅ Exception Handling
 - ✅ File I/O Operations
 - ✅ Basic GUI Development
@@ -52,17 +56,21 @@ UOJ-Java-2-1st-yr-2nd-sem/
 ## 🚀 Getting Started
 
 ### Prerequisites
+
 - **Java Development Kit (JDK)** 8 or higher
 - **IDE**: Eclipse, IntelliJ IDEA, or NetBeans
 - **Text Editor**: VS Code (alternative)
 
 ### Installation & Setup
+
 1. **Clone the repository**:
+
    ```bash
    git clone https://github.com/dkasun2001/UOJ-Java-2-1st-yr-2nd-sem.git
    ```
 
 2. **Navigate to the project directory**:
+
    ```bash
    cd UOJ-Java-2-1st-yr-2nd-sem
    ```
@@ -72,16 +80,19 @@ UOJ-Java-2-1st-yr-2nd-sem/
 ## 💻 How to Run the Programs
 
 ### Compile Java files:
+
 ```bash
 javac FileName.java
 ```
 
 ### Run compiled programs:
+
 ```bash
 java FileName
 ```
 
 ### For projects with multiple files:
+
 ```bash
 javac *.java
 java MainClass
@@ -135,4 +146,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **⭐ Star this repository if you find it helpful for your Java learning journey!**
 
-*Last Updated: August 2025*
+_Last Updated: August 2025_
