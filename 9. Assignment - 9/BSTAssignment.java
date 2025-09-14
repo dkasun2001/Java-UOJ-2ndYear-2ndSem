@@ -1,3 +1,13 @@
+/* Fundamental data structures and their applications: Trees
+
+Implement a Binary Search Tree using a linked list to insert the elements:  50,30,70,20,40,60,80
+Display the elements using inorder, preorder, postorder
+Search for the elements 40, 90
+Find the minimum value in the above BST
+Find the maximum value in the above BST
+Delete 80,70,30 from the BST
+Display again the elements in any of the traversal methods. */
+
 class Node{
 	int data;
 	Node left;
